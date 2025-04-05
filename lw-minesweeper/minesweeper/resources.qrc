@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>bang1.png</file>
+        <file>bomb-1.png</file>
+        <file>0.png</file>
+        <file>empty.png</file>
+        <file>flag-1.png</file>
+        <file>question-mark.png</file>
+        <file>left-right.png</file>
+        <file>dbg_check.png</file>
+        <file>dbg_unch.png</file>
+        <file>en-rus.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>minesweeper_en.qm</file>
+        <file>minesweeper_ru.qm</file>
+    </qresource>
+</RCC>
